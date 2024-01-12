@@ -6,5 +6,6 @@
 3. Used Excel charts to build various Dashboards that can show sales growth in different month for different products
 
 4. Prepared an insights that shows women are more likely to buy as compared to mens(~65%), Amazon, Flipkart and Myntra channels are the highest contributors(~80).
-   ![Uploading sales photo.jpg…]()
+
+![sales photo](https://github.com/samsi14/Excel-Dashboards/assets/99131424/22fb206f-10e1-4a4e-acec-097debe7aa44)
 
