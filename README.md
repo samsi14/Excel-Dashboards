@@ -1,4 +1,5 @@
 # Excel-Dashboards
+![sales photo](https://github.com/samsi14/Excel-Dashboards/assets/99131424/22fb206f-10e1-4a4e-acec-097debe7aa44)
 1. Used Ms excel to clean data and perform analysis, extracted age group from age column and month from date column.
 
 2. For the analysis of the data used pivot table, figured out some important business problems like which state has the highest sales, which gender does the most shopping and by using which channel.
@@ -7,5 +8,5 @@
 
 4. Prepared an insights that shows women are more likely to buy as compared to mens(~65%), Amazon, Flipkart and Myntra channels are the highest contributors(~80).
 
-![sales photo](https://github.com/samsi14/Excel-Dashboards/assets/99131424/22fb206f-10e1-4a4e-acec-097debe7aa44)
+
 
